@@ -9,9 +9,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=200&section=header&text=Muhammad%20Baqar%20Abro&fontSize=38&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
 
-# 👋 Hello, I'm Muhammad Baqar Abro
-
-### 💻 Full Stack Developer | MERN Stack Developer
 
 *Building digital experiences, exploring innovative technologies, and turning ideas into reality.*
 
@@ -50,25 +47,25 @@
 ### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,html,css,java,cpp,matlab" />
+<img src="https://skillicons.dev/icons?i=js,html,css,matlab" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
