@@ -34,11 +34,11 @@
 
 ## 👨‍💼 About Me
 
-I'm a Computer Science / Software Engineering graduate from **Iqra University**, interested in Project Management, Business Analysis, and IT project delivery.
+I'm a Software Engineering graduate from **Iqra University**, interested in Project Management, Business Analysis, and IT project delivery.
 
 I have practical exposure to project documentation, team coordination, and software development workflows. My goal is to bridge the gap between business requirements and technical solutions by helping teams plan, organize, analyze, and execute projects effectively.
 
-- 🎓 **Education:** BS Computer Science / Software Engineering – Iqra University
+- 🎓 **Education:** BE Software Engineering – Iqra University
 - 💼 **Internship:** Software Department – Saai Studio (SMC-Private) Limited
 - 📋 **Project Management:** Project Coordination & Documentation
 - 📊 **Business Analysis:** Requirements Understanding & Process Analysis
